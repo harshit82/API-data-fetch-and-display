@@ -1,6 +1,4 @@
-# zigy
-
-This project was created to apply as an intern in the company named zigy.
+# API data fetech and display
 
 This project fetches data from an [api](https://reqres.in/api/users) and displays it in list view and grid view formats.
 
