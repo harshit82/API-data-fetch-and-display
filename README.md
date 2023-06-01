@@ -1,4 +1,4 @@
-# API data fetech and display
+# API data fetch and display
 
 This project fetches data from an [api](https://reqres.in/api/users) and displays it in list view and grid view formats.
 
